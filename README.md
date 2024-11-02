@@ -5,16 +5,7 @@
 ## Overview
 This project leverages AI and machine learning to enhance stem cell therapy outcomes. By identifying protein biomarkers and assessing colony health, it aims to improve the precision of stem cell differentiation, reducing inefficiencies and risks of tumorigenesis in therapeutic applications. The project includes models for cell health assessment and differentiation prediction, as well as data preprocessing and visualization tools.
 
-## Project Structure
-- `data/` - Contains raw and processed data used for analysis.
-- `notebooks/` - Jupyter notebooks for feature extraction, exploratory data analysis, and model training.
-- `models/` - Saved model files and configuration details.
-- `scripts/` - Python scripts for preprocessing, training, and evaluation.
-- `results/` - Generated reports, plots, and other output files.
-- `src/` - Core source code files, including custom functions and classes.
-- `docs/` - Documentation files, including additional research notes and references.
 
----
 
 ## Introduction
 The discovery of embryonic stem cells (ESCs) introduced the potential for regenerative therapies, though it raised ethical concerns and the risk of immune rejection. In 2006, Shinya Yamanaka's breakthrough in developing induced pluripotent stem cells (iPSCs) addressed many ethical concerns and reduced immune rejection risks by reprogramming adult cells. However, iPSCs introduced new challenges, including inefficiencies, genetic abnormalities, and risks of tumorigenesis.
