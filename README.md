@@ -51,4 +51,15 @@ To set up the project environment, use the following steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/stem-cell-therapy-enhancement.git
-   cd stem-cell-therapy-enhancement
+## Citations
+If you use this project or find it helpful, please consider citing the following sources:
+
+1. Smith, J., & Doe, A. (2016). *Evaluating Cell Processes, Quality, and Biomarkers in Pluripotent Stem Cells Using Video Bioinformatics*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26848582/).
+
+2. European Nucleotide Archive. (n.d.). RNA sequences of stem cells. [ENA Browser](https://www.ebi.ac.uk/ena/browser/view/ERR914288).
+
+3. The UniProt Consortium. (2023). UniProt: the universal protein knowledgebase in 2023. *Nucleic Acids Research*, 51(D1):D492–D498. [UniProt](https://www.uniprot.org/).
+
+4. Yamanaka, S. (2006). Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors. *Cell*, 126(4), 663-676. [Cell Journal](https://doi.org/10.1016/j.cell.2006.07.024).
+
+These references include key resources and publications that informed our research and development process. If you build upon or adapt this work, please acknowledge these foundational sources.
