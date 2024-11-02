@@ -1,0 +1,30 @@
+# Core bio-embeddings packages
+bio-embeddings[all] @ git+https://github.com/sacdallago/bio_embeddings.git
+bio-embeddings[seqvec]
+bio-embeddings[prottrans]
+
+# ML/DL frameworks and models
+torch
+transformers
+allennlp
+fair-esm
+sentence-transformers
+bitsandbytes
+einops
+accelerate
+
+# LangChain related
+langchain
+langchain-community
+langchain-pinecone
+
+# Utils and dependencies
+setuptools
+wheel
+python-dotenv
+pinecone-client
+pypdf
+datasets
+
+# Note: Some packages might have overlapping dependencies
+# Note: Version numbers are not specified to allow for latest compatible versions
